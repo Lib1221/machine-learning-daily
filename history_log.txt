@@ -7,3 +7,6 @@ Status: Completed research/initial draft.
 Date: 2025-09-19T13:23:48
 Topic: Exploring Flutter for interactive UI design
 Status: Completed research/initial draft.
+Date: 2025-09-20T11:53:37
+Topic: Investigating SQLite performance for local data storage
+Status: Completed research/initial draft.
