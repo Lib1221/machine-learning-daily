@@ -16,3 +16,6 @@ Status: Completed research/initial draft.
 Date: 2025-09-20T11:05:53
 Topic: Analyzing SHAP values for model explainability
 Status: Completed research/initial draft.
+Date: 2025-09-21T13:19:13
+Topic: Investigating SQLite performance for local data storage
+Status: Completed research/initial draft.
