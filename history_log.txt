@@ -58,3 +58,6 @@ Status: Completed research/initial draft.
 Date: 2025-09-27T10:50:17
 Topic: Analyzing behavioral data collection methods
 Status: Completed research/initial draft.
+Date: 2025-09-29T16:47:32
+Topic: Reading about XGBoost optimization
+Status: Completed research/initial draft.
