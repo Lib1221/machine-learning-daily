@@ -91,3 +91,6 @@ Status: Completed research/initial draft.
 Date: 2025-10-04T19:19:29
 Topic: Studying data visualization techniques for personality scores
 Status: Completed research/initial draft.
+Date: 2025-10-05T21:18:02
+Topic: Studying Sentence-BERT for NLP
+Status: Completed research/initial draft.
