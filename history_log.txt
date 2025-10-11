@@ -127,3 +127,6 @@ Status: Completed research/initial draft.
 Date: 2025-10-11T22:44:48
 Topic: Optimizing hyperparameters for baseline models
 Status: Completed research/initial draft.
+Date: 2025-10-11T19:30:34
+Topic: Researching K-Means clustering for user segmentation
+Status: Completed research/initial draft.
