@@ -124,3 +124,6 @@ Status: Completed research/initial draft.
 Date: 2025-10-11T11:08:16
 Topic: Reviewing cognitive psychology papers for feature engineering
 Status: Completed research/initial draft.
+Date: 2025-10-11T22:44:48
+Topic: Optimizing hyperparameters for baseline models
+Status: Completed research/initial draft.
