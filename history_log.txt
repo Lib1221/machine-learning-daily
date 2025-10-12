@@ -130,3 +130,6 @@ Status: Completed research/initial draft.
 Date: 2025-10-11T19:30:34
 Topic: Researching K-Means clustering for user segmentation
 Status: Completed research/initial draft.
+Date: 2025-10-12T12:04:25
+Topic: Analyzing SHAP values for model explainability
+Status: Completed research/initial draft.
