@@ -151,3 +151,6 @@ Status: Completed research/initial draft.
 Date: 2025-10-14T18:19:37
 Topic: Learning about FastAPI for ML deployment
 Status: Completed research/initial draft.
+Date: 2025-10-15T20:32:42
+Topic: Reviewing cognitive psychology papers for feature engineering
+Status: Completed research/initial draft.
