@@ -196,3 +196,6 @@ Status: Completed research/initial draft.
 Date: 2025-10-26T21:36:57
 Topic: Studying data visualization techniques for personality scores
 Status: Completed research/initial draft.
+Date: 2025-10-27T11:24:07
+Topic: Learning about FastAPI for ML deployment
+Status: Completed research/initial draft.
