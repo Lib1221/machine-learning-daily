@@ -199,3 +199,6 @@ Status: Completed research/initial draft.
 Date: 2025-10-27T11:24:07
 Topic: Learning about FastAPI for ML deployment
 Status: Completed research/initial draft.
+Date: 2025-10-27T14:50:10
+Topic: Drafting system architecture for Cognitive Echo
+Status: Completed research/initial draft.
