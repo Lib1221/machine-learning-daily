@@ -214,3 +214,6 @@ Status: Completed research/initial draft.
 Date: 2025-10-31T16:21:58
 Topic: Exploring scikit-learn preprocessing techniques
 Status: Completed research/initial draft.
+Date: 2025-11-01T15:26:44
+Topic: Investigating SQLite performance for local data storage
+Status: Completed research/initial draft.
