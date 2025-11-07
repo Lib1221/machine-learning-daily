@@ -235,3 +235,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-06T15:52:28
 Topic: Reviewing cognitive psychology papers for feature engineering
 Status: Completed research/initial draft.
+Date: 2025-11-07T12:01:59
+Topic: Analyzing SHAP values for model explainability
+Status: Completed research/initial draft.
