@@ -241,3 +241,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-07T21:37:39
 Topic: Testing different activation functions
 Status: Completed research/initial draft.
+Date: 2025-11-07T13:47:31
+Topic: Analyzing SHAP values for model explainability
+Status: Completed research/initial draft.
