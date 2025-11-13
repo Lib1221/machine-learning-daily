@@ -280,3 +280,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-13T22:02:24
 Topic: Testing different activation functions
 Status: Completed research/initial draft.
+Date: 2025-11-13T17:21:54
+Topic: Researching neural network architectures
+Status: Completed research/initial draft.
