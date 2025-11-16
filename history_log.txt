@@ -292,3 +292,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-16T10:14:25
 Topic: Researching K-Means clustering for user segmentation
 Status: Completed research/initial draft.
+Date: 2025-11-16T12:49:19
+Topic: Studying data visualization techniques for personality scores
+Status: Completed research/initial draft.
