@@ -295,3 +295,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-16T12:49:19
 Topic: Studying data visualization techniques for personality scores
 Status: Completed research/initial draft.
+Date: 2025-11-17T21:58:57
+Topic: Drafting system architecture for Cognitive Echo
+Status: Completed research/initial draft.
