@@ -298,3 +298,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-17T21:58:57
 Topic: Drafting system architecture for Cognitive Echo
 Status: Completed research/initial draft.
+Date: 2025-11-18T19:55:03
+Topic: Optimizing hyperparameters for baseline models
+Status: Completed research/initial draft.
