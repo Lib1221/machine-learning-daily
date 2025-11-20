@@ -316,3 +316,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-20T14:12:22
 Topic: Learning about FastAPI for ML deployment
 Status: Completed research/initial draft.
+Date: 2025-11-20T12:23:59
+Topic: Analyzing SHAP values for model explainability
+Status: Completed research/initial draft.
