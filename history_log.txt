@@ -325,3 +325,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-21T18:09:43
 Topic: Exploring scikit-learn preprocessing techniques
 Status: Completed research/initial draft.
+Date: 2025-11-21T14:39:30
+Topic: Studying Sentence-BERT for NLP
+Status: Completed research/initial draft.
