@@ -361,3 +361,6 @@ Status: Completed research/initial draft.
 Date: 2025-11-27T11:00:59
 Topic: Reviewing cognitive psychology papers for feature engineering
 Status: Completed research/initial draft.
+Date: 2025-11-28T11:53:42
+Topic: Studying Sentence-BERT for NLP
+Status: Completed research/initial draft.
