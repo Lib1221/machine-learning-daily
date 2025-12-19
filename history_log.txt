@@ -451,3 +451,6 @@ Status: Completed research/initial draft.
 Date: 2025-12-19T09:18:41
 Topic: Optimizing hyperparameters for baseline models
 Status: Completed research/initial draft.
+Date: 2025-12-19T14:06:53
+Topic: Studying data visualization techniques for personality scores
+Status: Completed research/initial draft.
