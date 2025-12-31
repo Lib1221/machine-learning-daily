@@ -511,3 +511,6 @@ Status: Completed research/initial draft.
 Date: 2025-12-30T09:38:05
 Topic: Exploring Flutter for interactive UI design
 Status: Completed research/initial draft.
+Date: 2025-12-31T11:39:24
+Topic: Learning about FastAPI for ML deployment
+Status: Completed research/initial draft.
