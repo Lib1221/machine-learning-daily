@@ -517,3 +517,6 @@ Status: Completed research/initial draft.
 Date: 2025-12-31T20:26:03
 Topic: Reading about XGBoost optimization
 Status: Completed research/initial draft.
+Date: 2026-01-02T19:32:38
+Topic: Testing different activation functions
+Status: Completed research/initial draft.
