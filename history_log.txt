@@ -532,3 +532,6 @@ Status: Completed research/initial draft.
 Date: 2026-01-04T16:48:04
 Topic: Studying data visualization techniques for personality scores
 Status: Completed research/initial draft.
+Date: 2026-01-07T15:50:45
+Topic: Reviewing cognitive psychology papers for feature engineering
+Status: Completed research/initial draft.
