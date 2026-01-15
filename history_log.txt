@@ -574,3 +574,6 @@ Status: Completed research/initial draft.
 Date: 2026-01-14T10:11:26
 Topic: Studying Sentence-BERT for NLP
 Status: Completed research/initial draft.
+Date: 2026-01-15T15:35:55
+Topic: Optimizing hyperparameters for baseline models
+Status: Completed research/initial draft.
