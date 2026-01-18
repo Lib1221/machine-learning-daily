@@ -589,3 +589,6 @@ Status: Completed research/initial draft.
 Date: 2026-01-18T09:52:24
 Topic: Analyzing behavioral data collection methods
 Status: Completed research/initial draft.
+Date: 2026-01-18T16:54:14
+Topic: Studying Sentence-BERT for NLP
+Status: Completed research/initial draft.
