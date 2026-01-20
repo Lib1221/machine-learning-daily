@@ -592,3 +592,6 @@ Status: Completed research/initial draft.
 Date: 2026-01-18T16:54:14
 Topic: Studying Sentence-BERT for NLP
 Status: Completed research/initial draft.
+Date: 2026-01-20T18:16:46
+Topic: Analyzing SHAP values for model explainability
+Status: Completed research/initial draft.
