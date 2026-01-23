@@ -613,3 +613,6 @@ Status: Completed research/initial draft.
 Date: 2026-01-23T21:43:31
 Topic: Studying data visualization techniques for personality scores
 Status: Completed research/initial draft.
+Date: 2026-01-23T11:27:14
+Topic: Optimizing hyperparameters for baseline models
+Status: Completed research/initial draft.
