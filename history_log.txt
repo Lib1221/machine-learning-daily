@@ -625,3 +625,6 @@ Status: Completed research/initial draft.
 Date: 2026-01-24T19:37:57
 Topic: Testing different activation functions
 Status: Completed research/initial draft.
+Date: 2026-01-25T10:40:15
+Topic: Researching K-Means clustering for user segmentation
+Status: Completed research/initial draft.
