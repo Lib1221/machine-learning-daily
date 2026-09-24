@@ -46,3 +46,11 @@ The SQLite database (`cognitive_echo.db`) is created automatically on first run.
 ## Roadmap
 
 See [PROJECT_PLAN.md](PROJECT_PLAN.md) for the full plan and [DAY_2_PROGRESS.md](DAY_2_PROGRESS.md) for the latest completed milestone. Upcoming: feature extraction from responses, model training, and the Flutter client.
+
+## Documentation
+
+Developer docs live in [`docs/`](docs/):
+
+- [Architecture](docs/ARCHITECTURE.md)
+- [Setup](docs/SETUP.md)
+- [Contributing](docs/CONTRIBUTING.md)
