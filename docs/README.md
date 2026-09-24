@@ -13,3 +13,8 @@ Developer documentation for this repository. Start with the project [README](../
 - Environment variables are listed in `.env.example` where one exists; never commit a real `.env`.
 
 If something here is out of date, fix it in the same pull request as the code change. Documentation lives next to the code on purpose.
+
+## Guides
+
+- [Project Plan](guides/PROJECT_PLAN.md)
+- [Day 2 Progress](guides/DAY_2_PROGRESS.md)

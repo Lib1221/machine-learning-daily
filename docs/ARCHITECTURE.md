@@ -19,4 +19,4 @@ Flutter client (planned) -> FastAPI backend -> SQLite -> feature extraction -> M
 
 ## Daily cadence
 
-`daily_update.sh` commits and pushes with a timestamp, appending to `daily_log.txt`. Day-by-day notes live in `PROJECT_PLAN.md` and `DAY_N_PROGRESS.md`.
+`daily_update.sh` commits and pushes with a timestamp, appending to `daily_log.txt`. Day-by-day notes live in [`PROJECT_PLAN.md`](guides/PROJECT_PLAN.md) and `DAY_N_PROGRESS.md`.
